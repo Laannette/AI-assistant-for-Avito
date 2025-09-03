@@ -1,7 +1,7 @@
 # ИИ-ассистент для создания объявлений на Авито
 
 Ссылка на проект - 
- https://github.com/Laannette/AI-assistant-for-Avito/commit/d9533521a5aed30dbfc30744a70188035b1efdd4
+!(скриншот1)https://github.com/Laannette/AI-assistant-for-Avito/blob/main/avito_helper.png?raw=true
 
 ## Описание проекта
 
